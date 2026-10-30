@@ -1,0 +1,10 @@
+com\ideahub\config\CorsConfig.class
+com\ideahub\idea\IdeaController.class
+com\ideahub\IdeahubApplication.class
+com\ideahub\user\UserRepository.class
+com\ideahub\user\UserController.class
+com\ideahub\idea\IdeaRequest.class
+com\ideahub\idea\IdeaRepository.class
+com\ideahub\user\User.class
+com\ideahub\config\CorsConfig$1.class
+com\ideahub\idea\Idea.class
