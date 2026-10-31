@@ -11,7 +11,7 @@ import {
   Clock3, Users, Award, BarChart3, X
 } from "lucide-react";
 
-const API_URL = "http://localhost:8080/api";
+const API_URL = "https://obituaries-meal-eliminate-helicopter.trycloudflare.com/api";
 
 const seedIdeas = [
   {
